@@ -90,7 +90,7 @@ private void deleteNote(Note note) {
 
         notesAdapter.refresh(loadNotesFromDatabase());//更新数据
 
-    }
+    } 
 ```
 
 ## TODO 更新数据
